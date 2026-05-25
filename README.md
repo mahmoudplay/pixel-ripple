@@ -1,6 +1,6 @@
 # [✦ Pixel Ripple](https://www.npmjs.com/package/pixel-ripple)
 
-![Version](https://img.shields.io/badge/version-1.0.0-white?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.0-white?style=flat-square)
 ![Zero Dependencies](https://img.shields.io/badge/dependencies-zero-white?style=flat-square)
 ![Vanilla JS](https://img.shields.io/badge/built%20with-Vanilla%20JS-white?style=flat-square)
 ![React](https://img.shields.io/badge/built%20with-React-white?style=flat-square)
