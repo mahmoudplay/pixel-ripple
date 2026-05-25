@@ -1,0 +1,36 @@
+{
+  "name": "pixel-ripple",
+  "version": "1.0.0",
+  "description": "A zero-dependency, lightweight HTML5 Canvas framework that converts typography into interactive retro pixel-grids. Features real-time spring physics, ambient neon glow, custom glyph registration, and CRT scanline emulation—configured entirely via HTML data attributes.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "homepage": "https://github.com/mahmoudplay/pixel-ripple#readme",
+  "bugs": {
+    "url": "https://github.com/mahmoudplay/pixel-ripple/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudplay/pixel-ripple.git"
+  },
+  "license": "ISC",
+  "keywords": ["pixel", "ripple", "reactjs", "web", "ui", "text", "style", "animation"],
+  "author": "_mp1",
+  "type": "module",
+  "devDependencies": {
+    "@semantic-release/commit-analyzer": "^11.0.0",
+    "@semantic-release/github": "^10.0.0",
+    "@semantic-release/npm": "^11.0.0",
+    "@semantic-release/release-notes-generator": "^12.0.0",
+    "@types/react": "^19.2.15",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "semantic-release": "^23.0.0",
+    "typescript": "^5.9.3"
+  }
+}
